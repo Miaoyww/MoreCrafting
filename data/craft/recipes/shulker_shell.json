@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "---",
+        "-x-"
+    ],
+    "key": {
+        "-": {
+            "item": "minecraft:popped_chorus_fruit"
+        },  
+        "x": {
+            "item": "minecraft:slime_ball"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_shell",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "121",
+        "232",
+        "121"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:diamond"
+        },  
+        "2": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "3":{
+            "item": "minecraft:coal_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:ancient_debris",
+        "count": 1
+    }
+}

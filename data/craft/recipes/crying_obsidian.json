@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "---",
+        "|~|",
+        "---"
+    ],
+    "key": {
+        "-": {
+            "item": "minecraft:obsidian"
+        },
+        "|": {
+            "item": "minecraft:obsidian"
+        },
+        "~": {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:crying_obsidian",
+        "count": 4
+    }
+}

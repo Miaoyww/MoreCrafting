@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " yy",
+        "bxy",
+        "ob "
+    ],
+    "key": {
+        "y": {
+            "item": "minecraft:diamond_sword"
+        },  
+        "b": {
+            "item": "minecraft:prismarine_shard"
+        },
+        "x":{
+            "item": "minecraft:heart_of_the_sea"
+        },
+        "o":{
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    }
+}

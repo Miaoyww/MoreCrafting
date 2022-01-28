@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "121",
+        "131",
+        "121"
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:phantom_membrane"
+        },  
+        "2": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "3": {
+            "item": "minecraft:rabbit_hide"
+        }
+    },
+    "result": {
+        "item": "minecraft:elytra",
+        "count": 1
+    }
+}
